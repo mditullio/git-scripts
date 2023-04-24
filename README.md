@@ -1,6 +1,6 @@
 # git-scripts
 
-## Delete behind branches
+## delete-behind-branches.sh
 
 his script will first check if you're in a Git repository. 
 If not, it will print an error message and exit. 
